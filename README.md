@@ -1,63 +1,82 @@
-# 👋 Olá! Eu sou o **Kayke Andrade**
+<h1 align="center">Olá, eu sou o Kayke Andrade 👋</h1>
+<h3 align="center">Backend Python | Django · FastAPI · SQL | IA aplicada (ML)</h3>
 
-🎓 **Estudante do 4º semestre de Sistemas de Informação – UFC**
-📊 Focado em **Data Science, Machine Learning, Deep Learning e Python**
-🛠️ **Técnico em Redes de Computadores**
-🚀 Buscando oportunidade como **Estagiário / Júnior em Data Science, IA ou Back-end**
-
----
-
-## 🔍 Sobre mim
-
-Atualmente desenvolvo uma base sólida em **análise, manipulação e modelagem de dados**, aplicando técnicas modernas de aprendizado de máquina para solucionar problemas reais. Tenho boa experiência acadêmica e prática com Python e suas principais bibliotecas voltadas para ciência de dados.
-
-Mesmo no início da carreira, mantenho uma postura profissional, estudando diariamente e me aprimorando para atuar com qualidade em projetos de tecnologia e inteligência artificial.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaykeandrade7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaykega87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Buscando%20estágio%2Fjúnior-2ea44f?style=flat" />
+</p>
 
 ---
 
-## 🧠 O que estou estudando atualmente
+### 🌱 Sobre mim
 
-* **Data Science**
-* **Machine Learning e Deep Learning**
-* **Análise Exploratória de Dados (EDA)**
-* **Modelagem Preditiva**
-* **Estatística aplicada a dados**
-* **Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)**
+Sou estudante de **Sistemas de Informação na UFC** e estou construindo minha base como desenvolvedor **Backend Python**, com foco em APIs REST organizadas e fáceis de manter.
 
----
+Não me vejo como "especialista" ainda, isso seria mentira. Estou **documentando minha jornada de aprendizado**: o que estudo, os problemas que resolvo e os erros que corrijo pelo caminho. Se você chegou até aqui, provavelmente vai ver esse repositório evoluir com o tempo.
 
-## 🛠️ Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="matplotlib" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="sklearn" height="40" width="40" src="https://sklearn.org/stable/_static/scikit-learn-logo-small.png">
-  <img align="center" alt="c" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+Atualmente com experiência prática em:
+- Construção de APIs REST com **Django REST Framework** e **FastAPI**
+- Modelagem de dados e integração com **bancos SQL**
+- Autenticação via **JWT**
+- Aplicação de **Machine Learning** em problemas reais (classificação, detecção de fraude)
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 🛠️ Stack principal
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KaykeAndrade7&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KaykeAndrade7&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KaykeAndrade7&show_icons=true" />
-</picture>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+</p>
+
+---
+
+### 💼 Projetos em destaque
+
+**[gestao-contabil-backend](https://github.com/KaykeAndrade7/gestao-contabil-backend)**
+Backend de um sistema de gestão para um escritório de contabilidade real (HD Contabilidade), desenvolvido em produção durante 6 meses remoto.
+- 5 apps Django cobrindo as regras de negócio do sistema
+- Autenticação via JWT
+- Documentação da API com `drf-spectacular` (Swagger)
+- UUID como chave primária, visando segurança e escalabilidade
+
+**Detecção de fraude em transações financeiras (ML)**
+Projeto aplicando Machine Learning a um problema real de negócio: testei modelos como **Random Forest** e **XGBoost** para identificar transações fraudulentas e disponibilizei os resultados via API.
 
 ---
 
-## 📫 Como me encontrar
+### 🎓 Formação
 
-* 💼 LinkedIn: https://www.linkedin.com/in/kayke-andrade-74591a2a3
-* 📧 E-mail: kaykega87@gmail.com
+- **Bacharelado em Sistemas de Informação** — Universidade Federal do Ceará (UFC), 2024 – 2029 (em andamento)
+- **Técnico em Redes de Computadores** — Eeep Isaias Gonçalves Damasceno, 2021 – 2023
+
+**Certificações:** Academy Accreditation — Generative AI Fundamentals
 
 ---
+
+### 📍 Onde estou
+
+Crateús, Ceará, Brasil — **aberto a estágio ou vaga júnior em Backend Python**, remoto ou presencial.
+
+Recrutadores e líderes técnicos: fico à disposição para conversar. 📬 [kaykega87@gmail.com](mailto:kaykega87@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kaykeandrade7)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaykeAndrade7&show_icons=true&theme=default&hide_border=true" alt="Kayke's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaykeAndrade7&hide_border=true" alt="Kayke's streak stats" />
+</p>
