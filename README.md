@@ -70,7 +70,7 @@ Projeto aplicando Machine Learning a um problema real de negócio: testei modelo
 
 Crateús, Ceará, Brasil — **aberto a estágio ou vaga júnior em Backend Python**, remoto ou presencial.
 
-Recrutadores e líderes técnicos: fico à disposição para conversar. 📬 [kaykega87@gmail.com](mailto:kaykega87@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kaykeandrade7)
+Recrutadores e líderes técnicos: fico à disposição para conversar. 📬 [kaykega87@gmail.com](mailto:kaykega87@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kayke-andrade7/)
 
 ---
 
